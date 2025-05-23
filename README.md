@@ -9,9 +9,18 @@ Para el procesamiento y análisis de los datos se utilizó una combinación de t
 
 El total de ventas mensuales mostró una tendencia general de crecimiento (salvo en febrero, que presentó un ligero descenso), logrando duplicarse entre enero y finales de junio.
 
+![Ingresos por mes](https://github.com/user-attachments/assets/6c90679d-f996-42fd-802b-0ebff6b5ed30)
+
+
 La categoría más vendida fue Coffee, destacando el Barista Expresso como el producto más popular, seguida de la categoría Tea, con el Brewed Chai Tea como producto estrella.
 
+![transacciones por categoría](https://github.com/user-attachments/assets/9fb37081-7c5e-4293-8ee8-20d8dfb4b6c3)
+
+
 El producto Hot Chocolate, a pesar de tener un menor volumen de ventas que el Gourmet Brewed Coffee, generó mayores ingresos totales, lo que sugiere que podría ser rentable desarrollar una estrategia de ventas específica para este producto.
+
+![Igresos por tipo de producto](https://github.com/user-attachments/assets/02e91b65-6fa0-4da7-81cb-f4a904463640)
+
 
 💡 Recomendaciones
 
